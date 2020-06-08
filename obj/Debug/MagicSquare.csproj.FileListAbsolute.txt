@@ -1,0 +1,17 @@
+F:\WPF\MagicSquare\bin\Debug\MagicSquare.exe.config
+F:\WPF\MagicSquare\bin\Debug\MagicSquare.exe
+F:\WPF\MagicSquare\bin\Debug\MagicSquare.pdb
+F:\WPF\MagicSquare\obj\Debug\MagicSquare.csprojAssemblyReference.cache
+F:\WPF\MagicSquare\obj\Debug\MainWindow.g.cs
+F:\WPF\MagicSquare\obj\Debug\App.g.cs
+F:\WPF\MagicSquare\obj\Debug\MagicSquare_MarkupCompile.cache
+F:\WPF\MagicSquare\obj\Debug\MagicSquare_MarkupCompile.lref
+F:\WPF\MagicSquare\obj\Debug\MainWindow.baml
+F:\WPF\MagicSquare\obj\Debug\MagicSquare.g.resources
+F:\WPF\MagicSquare\obj\Debug\MagicSquare.Properties.Resources.resources
+F:\WPF\MagicSquare\obj\Debug\MagicSquare.csproj.GenerateResource.cache
+F:\WPF\MagicSquare\obj\Debug\MagicSquare.csproj.CoreCompileInputs.cache
+F:\WPF\MagicSquare\obj\Debug\MagicSquare.exe
+F:\WPF\MagicSquare\obj\Debug\MagicSquare.pdb
+F:\WPF\MagicSquare\obj\Debug\UserSymbol.g.cs
+F:\WPF\MagicSquare\obj\Debug\UserSymbol.baml
